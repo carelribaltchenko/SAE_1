@@ -42,3 +42,6 @@ dans un terminal, effectuer toutes ces commandes dans l'ordre:
   sudo tee /etc/apt/sources.list.d/docker.list > /dev/null`
 - `sudo apt-get update`
 une fois ceci fait, il faut écrire la commande suivante afin de verifier qque docker soit installé: `sudo docker run hello-world`
+
+
+[lien vers github](https://github.com/carelribaltchenko/SAE_1.git)
